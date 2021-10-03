@@ -10,7 +10,6 @@ function App() {
      <NavBar />
      <ItemListContainer name='Gretting' />
      <ItemCount stock="5" initial={1} />
-    
     </div>
 
 
