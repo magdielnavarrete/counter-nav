@@ -1,0 +1,11 @@
+.contendorItemList{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+
+}
+
+.ItemCountButton{
+    display: flex;
+    justify-content: space-around;
+}

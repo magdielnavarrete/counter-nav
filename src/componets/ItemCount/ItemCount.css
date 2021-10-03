@@ -1,0 +1,11 @@
+.ItemCountcontainer {
+    display: grid;
+    padding: 40px;
+    justify-content: center;
+
+}
+
+.ItemCountButton{
+    display: flex;
+    padding: 30px;
+}
